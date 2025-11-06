@@ -1,0 +1,13 @@
+{
+  "prompt": "A professional TV studio scene with one male host and two female guests engaged in a formal discussion. The host, in a navy-blue suit, stands in the center holding a microphone. The guest on his left, in a red blouse, speaks confidently, while the guest on his right, in a white suit, listens attentively. The background features soft lighting and an audience in the studio.",
+  "cond_image": "examples/multi/5/multi1.jpg",
+  "audio_type": "para",
+  "tts_audio": {
+   "text": "(s1) Grateful for this invite. (s2) We are glad you are here. (s3) Happy to be part of this. (s2) Today’s focus is growth. (s1) This is so important now.",   
+    "human1_voice": "/content/drive/MyDrive/weights/Kokoro-82M/voices/af_bella.pt",
+    "human2_voice": "/content/drive/MyDrive/weights/Kokoro-82M/voices/am_michael.pt",
+    "human3_voice": "/content/drive/MyDrive/weights/Kokoro-82M/voices/af_alloy.pt"
+  },
+
+  "cond_audio": {}
+}

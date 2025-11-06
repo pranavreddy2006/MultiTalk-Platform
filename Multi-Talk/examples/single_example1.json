@@ -1,0 +1,9 @@
+{
+    "prompt": "A young man stands confidently on an outdoor basketball court in front of a school building, smiling warmly and speaking with friendly energy. He gestures with his hands and his lips move naturally as he talks, creating an approachable presence in the schoolyard.",
+    "cond_image": "examples/single/pranav.jpg",
+    "tts_audio": {
+        "text": "Welcome to multi-talk, this is an audio-driven video generation model for multiple person.",
+        "human1_voice": "/content/drive/MyDrive/weights/Kokoro-82M/voices/am_michael.pt"
+    },
+    "cond_audio": {}
+}
