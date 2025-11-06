@@ -6,6 +6,7 @@
 
 - [Overview](#overview)
 - [Architecture](#architecture)
+- [Demo Videos](#demo-videos)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -172,6 +173,34 @@ AI Processing Backend (Python)
 │                 │    │                 │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
+
+### 🖼️ Visual Architecture Overview
+
+![System Architecture](./assets/images/architecture-diagram.png)
+
+*Complete system architecture showing the integration between React frontend, Node.js authentication, Python AI backend, and MongoDB database.*
+
+## 🎬 Demo Videos
+
+### 🚀 AI Video Generation Demonstrations
+
+Experience the power of MultiTalk's AI video generation capabilities through these demonstration videos:
+
+#### 📹 Demo 1: Single Person Video Generation
+https://github.com/pranavreddy2006/MultiTalk-Platform/assets/videos/demo-video-generation-1.mp4
+
+*Demonstrates basic AI video generation with single person scenarios and text-to-video conversion.*
+
+#### 📹 Demo 2: Advanced Multi-Person Video Generation
+https://github.com/pranavreddy2006/MultiTalk-Platform/assets/videos/demo-video-generation-2.mp4
+
+*Showcases advanced MultiTalk features with multi-person video generation and complex scene creation.*
+
+### 🎯 What You'll See in the Demos:
+- ⚡ **Real-time Processing** - Watch AI models generate videos in action
+- 🎨 **High-Quality Output** - See the professional-grade video results
+- 🤖 **AI Intelligence** - Observe how the system understands and creates content
+- 🔄 **Seamless Workflow** - Experience the smooth user interface and process flow
 
 ## ✨ Features
 
